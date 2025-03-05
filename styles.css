@@ -85,6 +85,7 @@ h2 {
   flex-direction: column;
   gap: 4px;
   align-items: center;
+  height: 61px;
 }
 
 .description {
